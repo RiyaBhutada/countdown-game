@@ -21,6 +21,7 @@ The Countdown Game challenges players to stop a timer as close to zero as possib
 2) Navigate to the folder "cd countdown-game"
 3) Install dependencies "npm install"
 4) Start the development server "npm run dev"
+5) Navigate to http://localhost:5173/ (or the provided URL) to interact with the game
 
 
 🔮 Future Scope
