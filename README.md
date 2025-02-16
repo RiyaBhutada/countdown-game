@@ -2,7 +2,11 @@
 
 The Countdown Game challenges players to stop a timer as close to zero as possible. It tests reaction time, estimation skills, and precision.
 
-![image](https://github.com/user-attachments/assets/7533a911-fe40-4185-9d1b-8d468e09fb4e)
+<div align="center"> 
+  <img width="50%" src="https://github.com/user-attachments/assets/7533a911-fe40-4185-9d1b-8d468e09fb4e" />
+  <img width="50%" src="https://github.com/user-attachments/assets/e274d9e3-65f9-441d-90e1-17c5cbceb6e6" />
+</div>
+
 
 
 🛠 What Did I Do?
